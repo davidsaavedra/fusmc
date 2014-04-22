@@ -1,6 +1,8 @@
 <?php
 require_once 'php/conexion.php';
-//moises contreras
+
+//Esta es la q queda y puntoo
+
 ?> 
 
 
