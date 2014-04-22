@@ -1,6 +1,6 @@
 <?php
 require_once 'php/conexion.php';
-//Esta es la q queda y punto
+//Esta es la q queda y puntoo
 ?> 
 
 
