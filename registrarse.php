@@ -3,7 +3,7 @@
 require_once 'php/conexion.php';
 
 ?> 
-
+//prueba desde netbeans
 <!DOCTYPE html>
 <html>
 <head>
