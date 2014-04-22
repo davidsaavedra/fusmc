@@ -3,7 +3,7 @@
 require_once 'php/conexion.php';
 
 
-//hfjghdfjgkjfdhgkljhfdkjhgjhfdj
+//Asi no era mano! 
 ?> 
 
 <!DOCTYPE html>
