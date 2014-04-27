@@ -1,8 +1,9 @@
 <?php
+//nuevocambio rama
 require_once 'php/conexion.php';
 ?> 
 
-//prueba de ramas
+
 <!DOCTYPE html>
 <html lang="es">
 	<head>
